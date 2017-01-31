@@ -74,6 +74,7 @@ div.rele3_ligado {
     width: 300px;
     height: 206px;
     border: none;
+    margin:auto;
     background: url(lampada_ligada.png) no-repeat left top;
 }
 
